@@ -1,8 +1,14 @@
 
 # Location Mention Recognition (LMR)
 
-ITU GeoAI LMR challenge submission. Due to Intellectual Property Rights (IPR), some parts of the code is unavalable.
 
+### This repo contains the following attatchments:
+
+* Code
+* Presentation Slides
+
+
+ITU GeoAI LMR challenge submission. Due to Intellectual Property Rights (IPR), some parts of the code is unavalable.
 
 
 
